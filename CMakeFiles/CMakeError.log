@@ -1,0 +1,98 @@
+Determining if the strtok_r exist failed with the following output:
+Change Dir: C:/Users/ld/Desktop/x265/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_187fd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.34209]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/9/24 14:02:34。
+节点 1 上的项目“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_187fd.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_187fd.dir\Debug\”。
+  正在创建目录“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_187fd.dir\Debug\cmTC_187fd.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_187fd.dir\Debug\cmTC_187fd.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_187fd.dir\Debug\\" /Fd"cmTC_187fd.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版
+  版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_187fd.dir\Debug\\" /Fd"cmTC_187fd.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+  
+  CheckSymbolExists.c
+C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “strtok_r”: 未声明的标识符 [C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_187fd.vcxproj]
+已完成生成项目“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_187fd.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_187fd.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “strtok_r”: 未声明的标识符 [C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_187fd.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.20
+
+File C:/Users/ld/Desktop/x265/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtok_r
+  return ((int*)(&strtok_r))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if files getopt.h exist failed with the following output:
+Change Dir: C:/Users/ld/Desktop/x265/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_24287.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.30501.0
+[Microsoft .NET Framework 版本 4.0.30319.34209]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/9/24 14:02:34。
+节点 1 上的项目“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_24287.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_24287.dir\Debug\”。
+  正在创建目录“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_24287.dir\Debug\cmTC_24287.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_24287.dir\Debug\cmTC_24287.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_24287.dir\Debug\\" /Fd"cmTC_24287.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 18.00.30501 版
+  版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_24287.dir\Debug\\" /Fd"cmTC_24287.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckIncludeFiles.c
+  
+  CheckIncludeFiles.c
+C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “getopt.h”: No such file or directory [C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_24287.vcxproj]
+已完成生成项目“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_24287.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_24287.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: 无法打开包括文件: “getopt.h”: No such file or directory [C:\Users\ld\Desktop\x265\CMakeFiles\CMakeTmp\cmTC_24287.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.22
+
+Source:
+/* */
+#include <getopt.h>
+
+
+int main(void){return 0;}
+

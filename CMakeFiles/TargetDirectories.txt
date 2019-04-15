@@ -1,0 +1,10 @@
+C:/Users/ld/Desktop/x265/CMakeFiles/x265-static.dir
+C:/Users/ld/Desktop/x265/CMakeFiles/x265-shared.dir
+C:/Users/ld/Desktop/x265/CMakeFiles/cli.dir
+C:/Users/ld/Desktop/x265/CMakeFiles/INSTALL.dir
+C:/Users/ld/Desktop/x265/CMakeFiles/ALL_BUILD.dir
+C:/Users/ld/Desktop/x265/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ld/Desktop/x265/encoder/CMakeFiles/encoder.dir
+C:/Users/ld/Desktop/x265/encoder/CMakeFiles/INSTALL.dir
+C:/Users/ld/Desktop/x265/common/CMakeFiles/common.dir
+C:/Users/ld/Desktop/x265/common/CMakeFiles/INSTALL.dir

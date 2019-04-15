@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\ld\desktop\multicoreware-x265-f8ae7afc1f61\source\common\</FILEPATH><FILENAME>cpu.cpp</FILENAME><LINE>253</LINE><COLUMN>16</COLUMN></SFA><DEFECTCODE>6340</DEFECTCODE><DESCRIPTION>符号不匹配:  已将“unsigned int”作为 _Param_(3) 传递，但需要使用一些 signed 类型来调用“fprintf”。</DESCRIPTION><FUNCTION>x265::cpu_detect</FUNCTION><DECORATED>?cpu_detect@x265@@YAIXZ</DECORATED><FUNCLINE>125</FUNCLINE><PATH/></DEFECT></DEFECTS>

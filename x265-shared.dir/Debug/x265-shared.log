@@ -1,0 +1,60 @@
+﻿生成启动时间为 2019/4/8 21:47:20。
+     1>项目“C:\Users\ld\Desktop\x265\x265-shared.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ld\Desktop\x265\Debug\libx265.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /DEF:"C:/Users/ld/Desktop/x265/x265.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ld/Desktop/x265/Debug/libx265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ld/Desktop/x265/Debug/libx265.lib" /MACHINE:X64  /machine:x64 /DLL "x265-shared.dir\Debug\x265.res"
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\analysis.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\search.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\bitcost.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\motion.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\slicetype.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\frameencoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\framefilter.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\level.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\nal.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\sei.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\sao.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\entropy.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\dpb.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\ratecontrol.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\reference.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\encoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\api.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\weightPrediction.obj
+         "C:\Users\ld\Desktop\x265\encoder\encoder.dir\Debug\x265-extras.obj"
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\winxp.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\primitives.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\pixel.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\dct.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\ipfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\intrapred.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\loopfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\constants.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\cpu.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\version.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\threading.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\threadpool.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\wavefront.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\md5.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\bitstream.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\yuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\shortyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\picyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\common.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\param.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\frame.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\framedata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\cudata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\slice.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\lowres.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\piclist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\predict.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\scalinglist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\quant.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Debug\deblock.obj
+            正在创建库 C:/Users/ld/Desktop/x265/Debug/libx265.lib 和对象 C:/Users/ld/Desktop/x265/Debug/libx265.exp
+         x265-shared.vcxproj -> C:\Users\ld\Desktop\x265\Debug\libx265.dll
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\x265-shared.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41

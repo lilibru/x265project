@@ -1,0 +1,12 @@
+﻿生成启动时间为 2018/6/8 22:22:46。
+     1>项目“C:\Users\ld\Desktop\x265\ZERO_CHECK.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/ld/Desktop/x265/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/ld/Desktop/x265/encoder/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/ld/Desktop/x265/common/CMakeFiles/generate.stamp is up-to-date.
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\ZERO_CHECK.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.15

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\winxp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\primitives.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\pixel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\dct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\ipfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\intrapred.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\loopfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\constants.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threadpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\wavefront.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\md5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\bitstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\yuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\shortyuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\picyuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\param.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\framedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cudata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\lowres.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\piclist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\predict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\scalinglist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\quant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\deblock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\winxp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\primitives.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cpu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threading.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threadpool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\wavefront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\md5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\bitstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\yuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\shortyuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\picyuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\param.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\framedata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cudata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\slice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\lowres.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\mv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\piclist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\predict.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\scalinglist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\quant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\contexts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\deblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92F1D968-4995-3840-A6BC-2A249896EA76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B0A8390-983F-3280-A668-C73022A8E8C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

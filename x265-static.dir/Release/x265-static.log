@@ -1,0 +1,58 @@
+﻿生成启动时间为 2019/3/25 10:28:59。
+     1>项目“C:\Users\ld\Desktop\x265\x265-static.vcxproj”在节点 2 上(Build 个目标)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\ld\Desktop\x265\Release\x265-static.lib" /NOLOGO /MACHINE:X64  /machine:x64 C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\analysis.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\search.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\bitcost.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\motion.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\slicetype.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\frameencoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\framefilter.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\level.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\nal.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\sei.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\sao.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\entropy.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\dpb.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\ratecontrol.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\reference.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\encoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\api.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\weightPrediction.obj
+         "C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\x265-extras.obj"
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\winxp.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\primitives.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\pixel.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\dct.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\ipfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\intrapred.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\loopfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\constants.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\cpu.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\version.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\threading.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\threadpool.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\wavefront.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\md5.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\bitstream.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\yuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\shortyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\picyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\common.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\param.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\frame.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\framedata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\cudata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\slice.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\lowres.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\piclist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\predict.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\scalinglist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\quant.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\deblock.obj
+         x265-static.vcxproj -> C:\Users\ld\Desktop\x265\Release\x265-static.lib
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\x265-static.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55

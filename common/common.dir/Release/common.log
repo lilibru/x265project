@@ -1,0 +1,105 @@
+﻿生成启动时间为 2018/10/20 15:45:10。
+     1>项目“C:\Users\ld\Desktop\x265\common\common.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule C:/Users/ld/Desktop/multicoreware-x265-f8ae7afc1f61/source/common/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/ld/Desktop/x265/common/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /nologo /W4 /WX- /MP /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"common.dir\Release\\" /Fd"common.dir\Release\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\winxp.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\primitives.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\pixel.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\dct.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\ipfilter.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\intrapred.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\loopfilter.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\constants.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cpu.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threading.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threadpool.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\wavefront.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\md5.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\bitstream.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\yuv.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\shortyuv.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\picyuv.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\common.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\param.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\frame.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\framedata.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cudata.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\slice.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\lowres.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\piclist.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\predict.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\scalinglist.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\quant.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\deblock.cpp"
+         winxp.cpp
+         primitives.cpp
+         pixel.cpp
+         dct.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\winxp.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\dct.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\primitives.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\pixel.cpp)
+         ipfilter.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\ipfilter.cpp)
+         intrapred.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\intrapred.cpp)
+         loopfilter.cpp
+         constants.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\loopfilter.cpp)
+         cpu.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\constants.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cpu.cpp)
+         threading.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threading.cpp)
+         threadpool.cpp
+         wavefront.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\threadpool.cpp)
+         md5.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\wavefront.cpp)
+         bitstream.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\md5.cpp)
+         yuv.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\bitstream.cpp)
+         shortyuv.cpp
+         picyuv.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\yuv.cpp)
+         common.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\shortyuv.cpp)
+         param.cpp
+         frame.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\picyuv.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\param.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\common.cpp)
+         framedata.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\frame.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\framedata.cpp)
+         cudata.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\cudata.cpp)
+         slice.cpp
+         lowres.cpp
+         piclist.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\slice.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\lowres.cpp)
+         predict.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\piclist.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\predict.cpp)
+         scalinglist.cpp
+         quant.cpp
+         deblock.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\quant.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\scalinglist.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\deblock.cpp)
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /nologo /W4 /WX- /MP /O2 /Ob2 /D X265_VERSION=0.0 /D WIN32 /D _WINDOWS /D NDEBUG /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"common.dir\Release\\" /Fd"common.dir\Release\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common\version.cpp"
+         version.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"common.dir\Release\common.lib" /NOLOGO /MACHINE:X64  /machine:x64 common.dir\Release\winxp.obj
+         common.dir\Release\primitives.obj
+         common.dir\Release\pixel.obj
+         common.dir\Release\dct.obj
+         common.dir\Release\ipfilter.obj
+         common.dir\Release\intrapred.obj
+         common.dir\Release\loopfilter.obj
+         common.dir\Release\constants.obj
+         common.dir\Release\cpu.obj
+         common.dir\Release\version.obj
+         common.dir\Release\threading.obj
+         common.dir\Release\threadpool.obj
+         common.dir\Release\wavefront.obj
+         common.dir\Release\md5.obj
+         common.dir\Release\bitstream.obj
+         common.dir\Release\yuv.obj
+         common.dir\Release\shortyuv.obj
+         common.dir\Release\picyuv.obj
+         common.dir\Release\common.obj
+         common.dir\Release\param.obj
+         common.dir\Release\frame.obj
+         common.dir\Release\framedata.obj
+         common.dir\Release\cudata.obj
+         common.dir\Release\slice.obj
+         common.dir\Release\lowres.obj
+         common.dir\Release\piclist.obj
+         common.dir\Release\predict.obj
+         common.dir\Release\scalinglist.obj
+         common.dir\Release\quant.obj
+         common.dir\Release\deblock.obj
+         common.vcxproj -> C:\Users\ld\Desktop\x265\common\common.dir\Release\common.lib
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\common\common.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.48

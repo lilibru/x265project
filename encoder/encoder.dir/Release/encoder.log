@@ -1,0 +1,35 @@
+﻿生成启动时间为 2019/3/25 10:28:56。
+     1>项目“C:\Users\ld\Desktop\x265\encoder\encoder.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /nologo /W4 /WX- /MP /O2 /Ob2 /D WIN32 /D _WINDOWS /D NDEBUG /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"encoder.dir\Release\\" /Fd"encoder.dir\Release\vc120.pdb" /Gd /TP /wd4701 /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\search.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265-extras.cpp"
+         search.cpp
+         x265-extras.cpp
+     1>c:\users\ld\desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265-extras.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\.\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\search.cpp)
+     1>c:\users\ld\desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\rdcost.h(59): warning C4189: “slice_qp”: 局部变量已初始化但不引用 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\search.cpp)
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"encoder.dir\Release\encoder.lib" /NOLOGO /MACHINE:X64  /machine:x64 encoder.dir\Release\analysis.obj
+         encoder.dir\Release\search.obj
+         encoder.dir\Release\bitcost.obj
+         encoder.dir\Release\motion.obj
+         encoder.dir\Release\slicetype.obj
+         encoder.dir\Release\frameencoder.obj
+         encoder.dir\Release\framefilter.obj
+         encoder.dir\Release\level.obj
+         encoder.dir\Release\nal.obj
+         encoder.dir\Release\sei.obj
+         encoder.dir\Release\sao.obj
+         encoder.dir\Release\entropy.obj
+         encoder.dir\Release\dpb.obj
+         encoder.dir\Release\ratecontrol.obj
+         encoder.dir\Release\reference.obj
+         encoder.dir\Release\encoder.obj
+         encoder.dir\Release\api.obj
+         encoder.dir\Release\weightPrediction.obj
+         "encoder.dir\Release\x265-extras.obj"
+         encoder.vcxproj -> C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\encoder.lib
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\encoder\encoder.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.22

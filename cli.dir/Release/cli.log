@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/3/25 10:28:59。
+     1>项目“C:\Users\ld\Desktop\x265\cli.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ld\Desktop\x265\Release\x265.exe" /INCREMENTAL:NO /NOLOGO "Release\x265-static.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ld/Desktop/x265/Release/x265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ld/Desktop/x265/Release/x265.lib" /MACHINE:X64  /machine:x64 cli.dir\Release\x265.res
+         cli.dir\Release\input.obj
+         cli.dir\Release\output.obj
+         cli.dir\Release\reconplay.obj
+         cli.dir\Release\raw.obj
+         cli.dir\Release\getopt.obj
+         cli.dir\Release\x265.obj
+         cli.dir\Release\/input/yuv.cpp.obj
+         cli.dir\Release\/input/y4m.cpp.obj
+         cli.dir\Release\/output/yuv.cpp.obj
+         cli.dir\Release\/output/y4m.cpp.obj
+            正在创建库 C:/Users/ld/Desktop/x265/Release/x265.lib 和对象 C:/Users/ld/Desktop/x265/Release/x265.exp
+         cli.vcxproj -> C:\Users\ld\Desktop\x265\Release\x265.exe
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\cli.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.69

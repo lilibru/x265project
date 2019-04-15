@@ -1,0 +1,65 @@
+﻿生成启动时间为 2018/10/20 15:45:21。
+     1>项目“C:\Users\ld\Desktop\x265\x265-shared.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule C:/Users/ld/Desktop/multicoreware-x265-f8ae7afc1f61/source/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/ld/Desktop/x265/CMakeFiles/generate.stamp is up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D WIN32 /D _WINDOWS /D NDEBUG /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\\\"Release\\\"" /D x265_shared_EXPORTS /l"0x0409" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /nologo /fo"x265-shared.dir\Release\x265.res" C:\Users\ld\Desktop\x265\x265.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ld\Desktop\x265\Release\libx265.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /DEF:"C:/Users/ld/Desktop/x265/x265.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/ld/Desktop/x265/Release/libx265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ld/Desktop/x265/Release/libx265.lib" /MACHINE:X64  /machine:x64 /DLL "x265-shared.dir\Release\x265.res"
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\analysis.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\search.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\bitcost.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\motion.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\slicetype.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\frameencoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\framefilter.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\level.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\nal.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\sei.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\sao.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\entropy.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\dpb.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\ratecontrol.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\reference.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\encoder.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\api.obj
+         C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\weightPrediction.obj
+         "C:\Users\ld\Desktop\x265\encoder\encoder.dir\Release\x265-extras.obj"
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\winxp.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\primitives.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\pixel.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\dct.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\ipfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\intrapred.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\loopfilter.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\constants.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\cpu.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\version.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\threading.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\threadpool.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\wavefront.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\md5.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\bitstream.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\yuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\shortyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\picyuv.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\common.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\param.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\frame.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\framedata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\cudata.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\slice.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\lowres.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\piclist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\predict.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\scalinglist.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\quant.obj
+         C:\Users\ld\Desktop\x265\common\common.dir\Release\deblock.obj
+            正在创建库 C:/Users/ld/Desktop/x265/Release/libx265.lib 和对象 C:/Users/ld/Desktop/x265/Release/libx265.exp
+         x265-shared.vcxproj -> C:\Users\ld\Desktop\x265\Release\libx265.dll
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\x265-shared.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58

@@ -1,0 +1,45 @@
+﻿生成启动时间为 2019/4/15 15:04:51。
+     1>项目“C:\Users\ld\Desktop\x265\cli.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\\" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\input.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\output.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\raw.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\reconplay.cpp" "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.cpp"
+         input.cpp
+         output.cpp
+         raw.cpp
+         reconplay.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\output.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\raw.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\input.cpp)
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\reconplay.cpp)
+         x265.cpp
+     1>c:\users\ld\desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.cpp)
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/input/yuv.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\yuv.cpp"
+         yuv.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/input/y4m.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\y4m.cpp"
+         y4m.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/output/yuv.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\yuv.cpp"
+         yuv.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\." /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\common" /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder" /IC:\Users\ld\Desktop\x265 /I"C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt" /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D X265_DEPTH=8 /D EXPORT_C_API=1 /D X265_NS=x265 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/output/y4m.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\y4m.cpp"
+         y4m.cpp
+     1>C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ld\Desktop\x265\Debug\x265.exe" /INCREMENTAL /NOLOGO "Debug\x265-static.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ld/Desktop/x265/Debug/x265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ld/Desktop/x265/Debug/x265.lib" /MACHINE:X64  /machine:x64 cli.dir\Debug\x265.res
+         cli.dir\Debug\input.obj
+         cli.dir\Debug\output.obj
+         cli.dir\Debug\reconplay.obj
+         cli.dir\Debug\raw.obj
+         cli.dir\Debug\getopt.obj
+         cli.dir\Debug\x265.obj
+         cli.dir\Debug\/input/yuv.cpp.obj
+         cli.dir\Debug\/input/y4m.cpp.obj
+         cli.dir\Debug\/output/yuv.cpp.obj
+         cli.dir\Debug\/output/y4m.cpp.obj
+            正在创建库 C:/Users/ld/Desktop/x265/Debug/x265.lib 和对象 C:/Users/ld/Desktop/x265/Debug/x265.exp
+         cli.vcxproj -> C:\Users\ld\Desktop\x265\Debug\x265.exe
+     1>已完成生成项目“C:\Users\ld\Desktop\x265\cli.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.91

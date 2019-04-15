@@ -1,0 +1,40 @@
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero
+C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp:1313
+satdcost cannot be zero

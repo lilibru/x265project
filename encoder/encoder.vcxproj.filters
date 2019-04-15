@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\analysis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\bitcost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\motion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\slicetype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\frameencoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\framefilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\nal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\sei.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\sao.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\entropy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\dpb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\reference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\encoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\weightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265-extras.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\analysis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\search.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\bitcost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\rdcost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\motion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\slicetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\frameencoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\framefilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\nal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\sei.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\sao.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\entropy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\dpb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\ratecontrol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\reference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\encoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265-extras.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\encoder\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92F1D968-4995-3840-A6BC-2A249896EA76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B0A8390-983F-3280-A668-C73022A8E8C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\input.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\yuv.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\y4m.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\output.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\reconplay.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\yuv.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\y4m.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\raw.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\input.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\y4m.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\input\yuv.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\output.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\raw.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\reconplay.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\y4m.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\output\yuv.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\compat\getopt\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\x265cli.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ld\Desktop\multicoreware-x265-f8ae7afc1f61\COPYING" />
+    <None Include="C:\Users\ld\Desktop\x265\x265.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\ld\Desktop\x265\x265.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92F1D968-4995-3840-A6BC-2A249896EA76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2B0A8390-983F-3280-A668-C73022A8E8C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{08BA4C01-1430-3BAE-9C1E-F3C3204CF7FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="output">
+      <UniqueIdentifier>{651CF5BC-5245-31EA-A2DE-6B423217207C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
